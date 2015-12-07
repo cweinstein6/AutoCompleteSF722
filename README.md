@@ -1,5 +1,8 @@
 # Salesforce Address Autocomplete
-
+<a href="https://githubsfdeploy.herokuapp.com?owner=cweinstein6&repo=AutoCompleteSF722">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
 This package includes components to enable address autocomplete for objects in Salesforce using the Google Places API.
 
 This current package includes functionality for the following standard objects:
